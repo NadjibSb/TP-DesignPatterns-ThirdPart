@@ -2,10 +2,9 @@ package com.pdc.FactoryMethod;
 
 import java.util.*;
 
-import com.pdc.Espece;
-import com.pdc.Exceptions.NonCompatible;
-import com.pdc.Animal;
-import com.pdc.Exceptions.NonCompatible;
+import com.pdc.dependentClass.Espece;
+import com.pdc.dependentClass.Exceptions.NonCompatible;
+import com.pdc.dependentClass.Animal;
 
 
 public abstract class Enclos implements Comparable {

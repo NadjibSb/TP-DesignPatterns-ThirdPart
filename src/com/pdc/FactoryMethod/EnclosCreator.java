@@ -1,7 +1,7 @@
 package com.pdc.FactoryMethod;
 
-import com.pdc.Enum.TypeEau;
-import com.pdc.Enum.TypeSol;
+import com.pdc.dependentClass.Enum.TypeEau;
+import com.pdc.dependentClass.Enum.TypeSol;
 
 public class EnclosCreator extends AbstractEnclosCreator {
     private static int id=0;

@@ -1,10 +1,9 @@
 package com.pdc.FactoryMethod;
 
-import java.awt.Color;
 import java.util.Iterator;
 
-import com.pdc.Animal;
-import com.pdc.Enum.Barriere;
+import com.pdc.dependentClass.Animal;
+import com.pdc.dependentClass.Enum.Barriere;
 
 
 public class Voliere extends Enclos {
