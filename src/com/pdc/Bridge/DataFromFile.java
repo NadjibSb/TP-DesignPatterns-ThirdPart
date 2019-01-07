@@ -15,7 +15,7 @@ public class DataFromFile implements DataGetter {
 
 
     @Override
-    public String getName(EspeceType especeType) {
+    public String getName(Animals especeType) {
 
         String fileName = getFileName(especeType);
         String name ="";
@@ -64,7 +64,7 @@ public class DataFromFile implements DataGetter {
     }
 
     @Override
-    public String getContinents(EspeceType especeType) {
+    public String getContinents(Animals especeType) {
 
         String fileName = getFileName(especeType);
         String continents ="";
@@ -113,7 +113,7 @@ public class DataFromFile implements DataGetter {
     }
 
     @Override
-    public Habitat getHabitat(EspeceType especeType) {
+    public Habitat getHabitat(Animals especeType) {
 
         String fileName = getFileName(especeType);
         String habitat ="";
@@ -162,7 +162,7 @@ public class DataFromFile implements DataGetter {
     }
 
     @Override
-    public RegimeAlimentaire gerRegime(EspeceType especeType) {
+    public RegimeAlimentaire gerRegime(Animals especeType) {
 
         String fileName = getFileName(especeType);
         String regime ="";
@@ -211,7 +211,7 @@ public class DataFromFile implements DataGetter {
     }
 
     @Override
-    public int getDureeVie(EspeceType especeType) {
+    public int getDureeVie(Animals especeType) {
 
         String fileName = getFileName(especeType);
         String dureeVie ="";
@@ -264,7 +264,7 @@ public class DataFromFile implements DataGetter {
 
 
 
-    private String getFileName(EspeceType especeType){
+    private String getFileName(Animals especeType){
         String fileName="";
         switch (especeType){
             case Abeille:

@@ -31,6 +31,6 @@ public class Paludarium extends Enclos {
 
     public String toString() {
         // TODO Auto-generated method stub
-        return "Paludatium : "+getId();
+        return "Paludatium id: "+getId();
     }
 }

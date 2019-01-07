@@ -2,76 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5c5069-9153-45fb-9bbd-650d9212e5cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SPEC/abeille.esp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPEC/addax.esp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPEC/araignee.esp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPEC/autruche.esp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPEC/crapaud_commun.esp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPEC/escargot.esp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPEC/fourmi.esp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPEC/lion.esp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPEC/mouton.esp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPEC/poisson_mandarin.esp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPEC/specifications.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pdc/Bridge/DataFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pdc/Bridge/DataGetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pdc/Bridge/Espece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pdc/Bridge/EspeceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pdc/Bridge/_Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Photo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Enum/Barriere.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Enum/Couleurs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Enum/EtatSante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Enum/Habitat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Enum/RegimeAlimentaire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Enum/TypeAnimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Enum/TypeEau.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Enum/TypeEnclos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Enum/TypeSol.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Espece.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Exceptions/Animal_malade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Exceptions/AnimauxPresent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Exceptions/DejaExistant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Exceptions/Espace_Insuffisant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Exceptions/NomExistant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/Exceptions/NonCompatible.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/AbstractEnclosCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/AbstractEnclosCreator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Aquarium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Aquarium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Cage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Cage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Enclos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Enclos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/EnclosCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/EnclosCreator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Insectarium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Insectarium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Paludarium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Paludarium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Voliere.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/Voliere.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/_Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP_Maafi_Souab_Partie03/com/pdc/FactoryMethod/_Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Enum/Barriere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Enum/Barriere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Enum/Couleurs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Enum/Couleurs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Enum/EtatSante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Enum/EtatSante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Enum/Habitat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Enum/Habitat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Enum/RegimeAlimentaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Enum/RegimeAlimentaire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Enum/TypeAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Enum/TypeAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Enum/TypeEau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Enum/TypeEau.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Enum/TypeEnclos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Enum/TypeEnclos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Enum/TypeSol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Enum/TypeSol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Espece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Espece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Exceptions/Animal_malade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Exceptions/Animal_malade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Exceptions/AnimauxPresent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Exceptions/AnimauxPresent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Exceptions/DejaExistant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Exceptions/DejaExistant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Exceptions/Espace_Insuffisant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Exceptions/Espace_Insuffisant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Exceptions/NomExistant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Exceptions/NomExistant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/Exceptions/NonCompatible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/dependentClass/Exceptions/NonCompatible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/AbstractEnclosCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/AbstractEnclosCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Aquarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Aquarium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Cage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Cage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Enclos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Enclos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/EnclosCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/EnclosCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Insectarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Insectarium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Paludarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Paludarium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Voliere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/Voliere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/_Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/FactoryMethod/_Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pdc/Bridge/DataFromFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/Bridge/DataFromFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pdc/Bridge/DataGetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/Bridge/DataGetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pdc/Bridge/Espece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/Bridge/Espece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pdc/Bridge/EspeceType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/Bridge/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pdc/Bridge/_Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pdc/Bridge/_Client.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,13 +21,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/DataFromFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+            <state relative-caret-position="-483">
+              <caret line="266" column="38" selection-start-line="266" selection-start-column="38" selection-end-line="266" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Continents#0;class#DataFromFile#0" />
                 <element signature="method#Habitat#0;class#DataFromFile#0" />
-                <element signature="method#MakeRegime#0;class#DataFromFile#0" />
               </folding>
             </state>
           </provider>
@@ -109,64 +44,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/Espece.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1062">
-              <caret line="71" column="95" selection-start-line="71" selection-start-column="95" selection-end-line="71" selection-end-column="95" />
+            <state relative-caret-position="169">
+              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#comparer#0;class#Espece#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/com.pdc.Bridge">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.pdc.Bridge</OriginalElement>
-              <nodes>
-                <node x="0.0" y="426.0">com.pdc.Bridge.Espece</node>
-                <node x="726.3573085846868" y="398.2296983758701">com.pdc.Bridge.DataGetter</node>
-                <node x="411.21113689095114" y="259.9953596287703">com.pdc.Bridge._Client</node>
-                <node x="736.4361948955918" y="642.9373549883992">com.pdc.Bridge.DataFromFile</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.pdc.Bridge._Client" target="com.pdc.Bridge.Espece">
-                  <point x="-7.085028418408967" y="0.0" />
-                  <point x="0.0" y="-7.057189406941745" />
-                </edge>
-                <edge source="com.pdc.Bridge._Client" target="com.pdc.Bridge.DataFromFile">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.Bridge._Client" target="com.pdc.Bridge.DataGetter">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.Bridge.DataFromFile" target="com.pdc.Bridge.DataGetter">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.Bridge.Espece" target="com.pdc.Bridge.DataGetter">
-                  <point x="-4.981290489737688" y="-0.4321400893793452" />
-                  <point x="-4.981290489737695" y="-0.4321400893793559" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.5428211586901763" x="453.5" y="484.0" />
-              <SelectedNodes>
-                <node>com.pdc.Bridge.DataGetter</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -176,132 +59,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.pdc.FactoryMethod">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.pdc.FactoryMethod</OriginalElement>
-              <nodes>
-                <node x="0.0" y="1324.0">com.pdc.FactoryMethod.Aquarium</node>
-                <node x="943.0" y="991.0">com.pdc.FactoryMethod.Enclos</node>
-                <node x="1618.0" y="691.0">com.pdc.FactoryMethod.AbstractEnclosCreator</node>
-                <node x="957.0" y="0.0">com.pdc.FactoryMethod.Paludarium</node>
-                <node x="892.0" y="870.0">com.pdc.FactoryMethod.EnclosCreator</node>
-                <node x="1297.0" y="1465.0">com.pdc.FactoryMethod._Client</node>
-                <node x="280.0" y="495.0">com.pdc.FactoryMethod.Insectarium</node>
-                <node x="1855.0" y="1441.0">com.pdc.FactoryMethod.Voliere</node>
-                <node x="775.0" y="1861.0">com.pdc.FactoryMethod.Cage</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.pdc.FactoryMethod.EnclosCreator" target="com.pdc.FactoryMethod.Paludarium">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod._Client" target="com.pdc.FactoryMethod.AbstractEnclosCreator">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.Insectarium" target="com.pdc.FactoryMethod.Enclos">
-                  <point x="14.347827837272462" y="0.0" />
-                  <point x="2.8421709430404007E-14" y="-13.945043596013576" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.AbstractEnclosCreator" target="com.pdc.FactoryMethod.Enclos">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.Enclos" target="com.pdc.FactoryMethod.Voliere">
-                  <point x="0.0" y="-10.569681422457172" />
-                  <point x="0.0" y="-10.569681422457165" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.EnclosCreator" target="com.pdc.FactoryMethod.AbstractEnclosCreator">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.Enclos" target="com.pdc.FactoryMethod.Cage">
-                  <point x="10.225495508910939" y="0.0" />
-                  <point x="10.225495508910967" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.EnclosCreator" target="com.pdc.FactoryMethod.Cage">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.EnclosCreator" target="com.pdc.FactoryMethod.Voliere">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.Aquarium" target="com.pdc.FactoryMethod.Enclos">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.Enclos" target="com.pdc.FactoryMethod.Insectarium">
-                  <point x="-2.8421709430404007E-14" y="13.945043596013619" />
-                  <point x="-14.347827837272462" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod._Client" target="com.pdc.FactoryMethod.EnclosCreator">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.Paludarium" target="com.pdc.FactoryMethod.Enclos">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.Voliere" target="com.pdc.FactoryMethod.Enclos">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.EnclosCreator" target="com.pdc.FactoryMethod.Insectarium">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod._Client" target="com.pdc.FactoryMethod.Enclos">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.EnclosCreator" target="com.pdc.FactoryMethod.Aquarium">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.Cage" target="com.pdc.FactoryMethod.Enclos">
-                  <point x="-10.225495508910967" y="0.0" />
-                  <point x="-10.225495508910967" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.Enclos" target="com.pdc.FactoryMethod.Paludarium">
-                  <point x="-10.021961387374802" y="0.0" />
-                  <point x="-10.02196138737483" y="0.0" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.Enclos" target="com.pdc.FactoryMethod.Aquarium">
-                  <point x="2.8421709430404007E-14" y="10.253139126297015" />
-                  <point x="0.0" y="10.253139126296986" />
-                </edge>
-                <edge source="com.pdc.FactoryMethod.EnclosCreator" target="com.pdc.FactoryMethod.Enclos">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.4050939963614312" x="203.52844311377248" y="999.4550898203593" />
-              <SelectedNodes>
-                <node>com.pdc.FactoryMethod.AbstractEnclosCreator</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/_Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -315,18 +77,23 @@
         <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/DataGetter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/EspeceType.java">
+        <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/Animals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="78" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="78" />
+            <state relative-caret-position="36">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/UML_Bridge.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -375,10 +142,10 @@
         <option value="$PROJECT_DIR$/src/com/pdc/Adapter/Espece.java" />
         <option value="$PROJECT_DIR$/src/com/pdc/Adapter/DataFromFile.java" />
         <option value="$PROJECT_DIR$/src/com/pdc/Adapter/DataGetter.java" />
-        <option value="$PROJECT_DIR$/src/com/pdc/Bridge/DataGetter.java" />
         <option value="$PROJECT_DIR$/src/com/pdc/Bridge/EspeceType.java" />
-        <option value="$PROJECT_DIR$/src/com/pdc/Bridge/DataFromFile.java" />
         <option value="$PROJECT_DIR$/src/com/pdc/Bridge/_Client.java" />
+        <option value="$PROJECT_DIR$/src/com/pdc/Bridge/DataGetter.java" />
+        <option value="$PROJECT_DIR$/src/com/pdc/Bridge/DataFromFile.java" />
         <option value="$PROJECT_DIR$/src/com/pdc/Bridge/Espece.java" />
       </list>
     </option>
@@ -433,7 +200,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546643884330" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546902151627" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/pdc/Bridge" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -462,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._Client (1)">
+  <component name="RunManager" selected="Application._Client">
     <configuration name="_Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pdc.Bridge._Client" />
       <module name="TP_Maafi_Souab_Partie03" />
@@ -491,8 +258,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._Client (1)" />
         <item itemvalue="Application._Client" />
+        <item itemvalue="Application._Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -507,27 +274,28 @@
       <option name="presentableId" value="Default" />
       <updated>1546502039496</updated>
       <workItem from="1546502042507" duration="2670000" />
-      <workItem from="1546635843135" duration="8379000" />
+      <workItem from="1546635843135" duration="9030000" />
+      <workItem from="1546899835497" duration="828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11049000" />
+    <option name="totallyTimeSpent" value="12528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="25" width="1543" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25317302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25651303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32871014" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32871014" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32871014" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -537,6 +305,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.33009708" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -550,18 +319,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/pdc/Bridge/DataFromFile.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/pdc/dependentClass/Exceptions/NomExistant.java">
@@ -683,30 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pdc/dependentClass/Photo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pdc/dependentClass/Enum/Habitat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/DataGetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/EspeceType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="78" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pdc/FactoryMethod/UML_FactoryMethod.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -813,7 +546,7 @@
               <point x="0.0" y="0.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.4050939963614312" x="203.52844311377248" y="999.4550898203593" />
+          <settings layout="Hierarchic Group" zoom="0.4050939963614312" x="204.0" y="999.0" />
           <SelectedNodes>
             <node>com.pdc.FactoryMethod.AbstractEnclosCreator</node>
           </SelectedNodes>
@@ -829,56 +562,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SPEC/lion.esp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/DataFromFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Continents#0;class#DataFromFile#0" />
-            <element signature="method#Habitat#0;class#DataFromFile#0" />
-            <element signature="method#MakeRegime#0;class#DataFromFile#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/_Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/Espece.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1062">
-          <caret line="71" column="95" selection-start-line="71" selection-start-column="95" selection-end-line="71" selection-end-column="95" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#comparer#0;class#Espece#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/com.pdc.Bridge">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
           <OriginalElement>com.pdc.Bridge</OriginalElement>
           <nodes>
-            <node x="0.0" y="426.0">com.pdc.Bridge.Espece</node>
-            <node x="726.3573085846868" y="398.2296983758701">com.pdc.Bridge.DataGetter</node>
-            <node x="411.21113689095114" y="259.9953596287703">com.pdc.Bridge._Client</node>
-            <node x="736.4361948955918" y="642.9373549883992">com.pdc.Bridge.DataFromFile</node>
+            <node x="157.0" y="0.0">com.pdc.Bridge.Espece</node>
+            <node x="346.0" y="593.0">com.pdc.Bridge.DataGetter</node>
+            <node x="153.0" y="497.0">com.pdc.Bridge._Client</node>
+            <node x="0.0" y="785.0">com.pdc.Bridge.DataFromFile</node>
           </nodes>
           <notes />
           <edges>
             <edge source="com.pdc.Bridge._Client" target="com.pdc.Bridge.Espece">
-              <point x="-7.085028418408967" y="0.0" />
-              <point x="0.0" y="-7.057189406941745" />
+              <point x="5.475249157359883" y="0.0" />
+              <point x="5.475249157359848" y="0.0" />
             </edge>
             <edge source="com.pdc.Bridge._Client" target="com.pdc.Bridge.DataFromFile">
               <point x="0.0" y="0.0" />
@@ -893,11 +592,11 @@
               <point x="0.0" y="0.0" />
             </edge>
             <edge source="com.pdc.Bridge.Espece" target="com.pdc.Bridge.DataGetter">
-              <point x="-4.981290489737688" y="-0.4321400893793452" />
-              <point x="-4.981290489737695" y="-0.4321400893793559" />
+              <point x="4.838405016064797" y="-1.2608873464822636" />
+              <point x="4.838405016064797" y="-1.2608873464822423" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.5428211586901763" x="453.5" y="484.0" />
+          <settings layout="Hierarchic Group" zoom="0.5428211586901763" x="454.0" y="483.0" />
           <SelectedNodes>
             <node>com.pdc.Bridge.DataGetter</node>
           </SelectedNodes>
@@ -910,6 +609,66 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pdc/dependentClass/Enum/Habitat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPEC/lion.esp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pdc/dependentClass/Photo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/UML_Bridge.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/Animals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/DataFromFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="266" column="38" selection-start-line="266" selection-start-column="38" selection-end-line="266" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Continents#0;class#DataFromFile#0" />
+            <element signature="method#Habitat#0;class#DataFromFile#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/DataGetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/Espece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#comparer#0;class#Espece#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pdc/Bridge/_Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
         </state>
       </provider>
     </entry>

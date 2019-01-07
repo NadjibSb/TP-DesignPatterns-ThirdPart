@@ -19,7 +19,7 @@ public class Espece {
     private Photo photo;
     private static int nbIndividus;
 
-    public Espece(DataGetter dataGetter, EspeceType especeType) {
+    public Espece(DataGetter dataGetter, Animals especeType) {
         this.dataGetter = dataGetter;
 
         this.nbIndividus++;

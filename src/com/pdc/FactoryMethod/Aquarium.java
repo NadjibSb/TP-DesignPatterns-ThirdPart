@@ -33,7 +33,7 @@ public class Aquarium extends Enclos {
     @Override
     public String toString() {
         // TODO Auto-generated method stub
-        return "Aquarium : "+getId();
+        return "Aquarium id : "+getId();
     }
 
 

@@ -28,6 +28,6 @@ public class Insectarium extends Enclos {
 
     public String toString() {
         // TODO Auto-generated method stub
-        return "Insectarium : " +getId();
+        return "Insectarium id : " +getId();
     }
 }

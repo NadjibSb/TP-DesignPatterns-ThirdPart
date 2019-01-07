@@ -25,7 +25,7 @@ public class Cage extends Enclos {
 
     @Override
     public String toString() {
-        return "Cage : "+getId();
+        return "Cage id : "+getId();
     }
 
 }

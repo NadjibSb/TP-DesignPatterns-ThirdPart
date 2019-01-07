@@ -30,7 +30,7 @@ public class Voliere extends Enclos {
 
     public String toString() {
         // TODO Auto-generated method stub
-        return "Voliere : "+getId();
+        return "Voliere id : "+getId();
     }
 
 }
