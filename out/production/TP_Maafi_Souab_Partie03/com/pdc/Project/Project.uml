@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.pdc.Project</OriginalElement>
+  <nodes>
+    <node x="806.4475668265936" y="2484.7004797806717">com.pdc.Project.Paludarium</node>
+    <node x="2456.0" y="325.0">com.pdc.Project.formulaireZoo</node>
+    <node x="2446.1549006168607" y="2515.7553118574365">com.pdc.Project.Photo</node>
+    <node x="4485.947224126114" y="2372.2398903358467">com.pdc.Project.Mollusque</node>
+    <node x="4495.839616175463" y="2955.3831391363947">com.pdc.Project.Insecte</node>
+    <node x="2879.0" y="902.0">com.pdc.Project.Menu_Principal</node>
+    <node x="2811.0" y="408.0">com.pdc.Project.CouleurList</node>
+    <node x="1354.4475668265936" y="3119.7004797806717">com.pdc.Project.Aquarium</node>
+    <node x="4503.958190541466" y="2607.244002741604">com.pdc.Project.Arachnide</node>
+    <node x="1402.0" y="330.0">com.pdc.Project.formulaireResto</node>
+    <node x="711.0" y="1886.0">com.pdc.Project.formulaireEnclos</node>
+    <node x="1696.0" y="770.0">com.pdc.Project.Supprimer_enclos</node>
+    <node x="1406.1980808773135" y="2102.526387936943">com.pdc.Project.Enclos</node>
+    <node x="1936.8622222222225" y="1940.8111111111114">com.pdc.Project.PlanZoo</node>
+    <node x="2908.0" y="249.0">com.pdc.Project.Panneau</node>
+    <node x="2412.0" y="1194.0">com.pdc.Project.FormAnimal</node>
+    <node x="3644.0781357093892" y="2834.3180260452364">com.pdc.Project.Amphibien</node>
+    <node x="4195.279643591501" y="2422.916381082933">com.pdc.Project.Oiseau</node>
+    <node x="988.0" y="985.0">com.pdc.Project.Restaurant</node>
+    <node x="2454.90610006854" y="2111.472926662097">com.pdc.Project.afficher_enclos</node>
+    <node x="3680.92117888965" y="2430.9417409184375">com.pdc.Project.Reptile</node>
+    <node x="1586.072652501714" y="3344.4989718985603">com.pdc.Project.Insectarium</node>
+    <node x="4134.631939684716" y="2166.6545579163812">com.pdc.Project.Vertebre</node>
+    <node x="1878.0" y="120.0">com.pdc.Project.Porte_sortie</node>
+    <node x="852.4475668265936" y="2702.7004797806717">com.pdc.Project.Voliere</node>
+    <node x="1582.9910897875259" y="1213.4955448937628">com.pdc.Project.Zoo</node>
+    <node x="0.0" y="2337.0">com.pdc.Project.formulaireEnclos.Combo</node>
+    <node x="1892.831111111111" y="2142.964444444445">com.pdc.Project.Animal</node>
+    <node x="2312.0" y="99.0">com.pdc.Project.Placement</node>
+    <node x="2141.0" y="316.0">com.pdc.Project.InterfaceGestion</node>
+    <node x="1863.3104866346816" y="3077.3646333104866">com.pdc.Project.Cage</node>
+    <node x="1861.0" y="0.0">com.pdc.Project.Porte_entree</node>
+    <node x="4404.180945853324" y="1454.1788896504454">com.pdc.Project.Espece</node>
+    <node x="1912.0" y="513.0">com.pdc.Project.Porte</node>
+    <node x="4688.839616175463" y="2170.3831391363947">com.pdc.Project.Invertebre</node>
+    <node x="3797.0781357093892" y="2659.3180260452364">com.pdc.Project.Mammifere</node>
+    <node x="2404.0" y="942.0">com.pdc.Project.placer_animal</node>
+    <node x="4004.0507196710078" y="2782.3427004797804">com.pdc.Project.Poisson</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.pdc.Project.Mammifere" target="com.pdc.Project.Vertebre">
+      <point x="-1.988037188171461" y="-4.587778126549665" />
+      <point x="-1.9880371881715746" y="-4.587778126549665" />
+    </edge>
+    <edge source="com.pdc.Project.Amphibien" target="com.pdc.Project.Vertebre">
+      <point x="8.633701980342266" y="0.0" />
+      <point x="8.633701980342494" y="1.1368683772161603E-13" />
+    </edge>
+    <edge source="com.pdc.Project.Insecte" target="com.pdc.Project.Photo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.placer_animal" target="com.pdc.Project.formulaireZoo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.PlanZoo" target="com.pdc.Project.Espece">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Insectarium" target="com.pdc.Project.Invertebre">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.formulaireEnclos" target="com.pdc.Project.Zoo">
+      <point x="0.0" y="5.640598092225446" />
+      <point x="0.0" y="5.640598092225559" />
+    </edge>
+    <edge source="com.pdc.Project.Vertebre" target="com.pdc.Project.Espece">
+      <point x="5.189351163595575" y="0.0" />
+      <point x="5.189351163595575" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Menu_Principal" target="com.pdc.Project.Panneau">
+      <point x="5.029059902135145" y="0.0" />
+      <point x="5.029059902135259" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Zoo" target="com.pdc.Project.Animal">
+      <point x="0.0" y="-10.076422266641885" />
+      <point x="0.0" y="-10.076422266641828" />
+    </edge>
+    <edge source="com.pdc.Project.Cage" target="com.pdc.Project.Vertebre">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.afficher_enclos" target="com.pdc.Project.Photo">
+      <point x="4.1018193332602095" y="2.859209358772546" />
+      <point x="4.1018193332602095" y="2.8592093587726595" />
+    </edge>
+    <edge source="com.pdc.Project.Aquarium" target="com.pdc.Project.Animal">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Reptile" target="com.pdc.Project.Vertebre">
+      <point x="6.2592714344732485" y="0.0" />
+      <point x="6.2592714344732485" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.afficher_enclos" target="com.pdc.Project.Mammifere">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.afficher_enclos" target="com.pdc.Project.Poisson">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.afficher_enclos" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Espece" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="7.143715532195955" />
+      <point x="0.0" y="7.14371553219604" />
+    </edge>
+    <edge source="com.pdc.Project.InterfaceGestion" target="com.pdc.Project.Zoo">
+      <point x="4.652816251427993" y="1.8306558743923915" />
+      <point x="4.652816251428021" y="1.8306558743923915" />
+    </edge>
+    <edge source="com.pdc.Project.Vertebre" target="com.pdc.Project.Photo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.formulaireZoo" target="com.pdc.Project.Zoo">
+      <point x="4.0542071098522285" y="2.926329562852345" />
+      <point x="4.0542071098522" y="2.926329562852402" />
+    </edge>
+    <edge source="com.pdc.Project.PlanZoo" target="com.pdc.Project.Aquarium">
+      <point x="-1.1368683772161603E-13" y="-5.036822789691513" />
+      <point x="0.0" y="-5.036822789691485" />
+    </edge>
+    <edge source="com.pdc.Project.Mammifere" target="com.pdc.Project.Photo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.PlanZoo" target="com.pdc.Project.Paludarium">
+      <point x="-6.475642157490711" y="0.0" />
+      <point x="-6.475642157490711" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.Mollusque">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Insectarium" target="com.pdc.Project.Animal">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.afficher_enclos" target="com.pdc.Project.Oiseau">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.InterfaceGestion" target="com.pdc.Project.formulaireZoo">
+      <point x="0.0" y="-10.03123879876398" />
+      <point x="0.0" y="-10.031238798763866" />
+    </edge>
+    <edge source="com.pdc.Project.Enclos" target="com.pdc.Project.Insectarium">
+      <point x="0.0" y="-10.890830762611188" />
+      <point x="0.0" y="-10.890830762611131" />
+    </edge>
+    <edge source="com.pdc.Project.Enclos" target="com.pdc.Project.Cage">
+      <point x="0.0" y="-10.31472915690324" />
+      <point x="0.0" y="-10.31472915690324" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.Oiseau">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.afficher_enclos" target="com.pdc.Project.Espece">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Invertebre" target="com.pdc.Project.Espece">
+      <point x="6.115417701511092" y="0.0" />
+      <point x="6.115417701510978" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Supprimer_enclos" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Amphibien" target="com.pdc.Project.Photo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Porte_sortie" target="com.pdc.Project.Porte">
+      <point x="-5.001486988880515" y="0.0" />
+      <point x="-5.001486988880458" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Poisson" target="com.pdc.Project.Vertebre">
+      <point x="-1.3711162344274044" y="-4.808330299770432" />
+      <point x="-1.371116234427518" y="-4.808330299770319" />
+    </edge>
+    <edge source="com.pdc.Project.Enclos" target="com.pdc.Project.Animal">
+      <point x="0.0" y="-10.048799879438945" />
+      <point x="0.0" y="-10.048799879438945" />
+    </edge>
+    <edge source="com.pdc.Project.Animal" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="10.048799879438945" />
+      <point x="0.0" y="10.048799879438945" />
+    </edge>
+    <edge source="com.pdc.Project.placer_animal" target="com.pdc.Project.Animal">
+      <point x="0.0" y="-10.276979220990311" />
+      <point x="0.0" y="-10.276979220990313" />
+    </edge>
+    <edge source="com.pdc.Project.Arachnide" target="com.pdc.Project.Invertebre">
+      <point x="-1.728699073498035" y="-4.691652109149459" />
+      <point x="-1.728699073498035" y="-4.691652109149459" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.Poisson">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.Zoo">
+      <point x="0.0" y="-5.1994927003405" />
+      <point x="0.0" y="-5.199492700340556" />
+    </edge>
+    <edge source="com.pdc.Project.afficher_enclos" target="com.pdc.Project.Reptile">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.placer_animal" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Voliere" target="com.pdc.Project.Oiseau">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Placement" target="com.pdc.Project.PlanZoo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Enclos" target="com.pdc.Project.Espece">
+      <point x="-3.5711263971997482" y="-3.4995794397646023" />
+      <point x="-3.571126397199805" y="-3.499579439764574" />
+    </edge>
+    <edge source="com.pdc.Project.InterfaceGestion" target="com.pdc.Project.FormAnimal">
+      <point x="4.6778951421111685" y="-1.76558688243108" />
+      <point x="4.6778951421111685" y="-1.76558688243108" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.Mammifere">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Arachnide" target="com.pdc.Project.Photo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.formulaireEnclos.Combo" target="com.pdc.Project.formulaireEnclos">
+      <point x="-29.448150400740815" y="0.0" />
+      <point x="0.0" y="-10.631769383507617" />
+    </edge>
+    <edge source="com.pdc.Project.Porte_entree" target="com.pdc.Project.Porte">
+      <point x="4.994852050730628" y="-0.22683251819853467" />
+      <point x="4.994852050730628" y="-0.22683251819847783" />
+    </edge>
+    <edge source="com.pdc.Project.InterfaceGestion" target="com.pdc.Project.PlanZoo">
+      <point x="1.0712030719348604" y="-4.88390458328962" />
+      <point x="1.0712030719348604" y="-4.88390458328962" />
+    </edge>
+    <edge source="com.pdc.Project.InterfaceGestion" target="com.pdc.Project.Supprimer_enclos">
+      <point x="2.4469210222661957" y="4.3603414442898725" />
+      <point x="2.446921022266224" y="4.3603414442898725" />
+    </edge>
+    <edge source="com.pdc.Project.Aquarium" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.PlanZoo" target="com.pdc.Project.CouleurList">
+      <point x="-5.099019513592793" y="-2.8421709430404007E-14" />
+      <point x="-5.099019513592793" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.afficher_enclos" target="com.pdc.Project.Arachnide">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Paludarium" target="com.pdc.Project.Enclos">
+      <point x="11.035780320166396" y="0.0" />
+      <point x="11.035780320166225" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Enclos" target="com.pdc.Project.Aquarium">
+      <point x="0.0" y="-11.1264835465293" />
+      <point x="-22.807721211559283" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Aquarium" target="com.pdc.Project.PlanZoo">
+      <point x="-0.6034896203368589" y="4.9634464113300965" />
+      <point x="-0.6034896203368589" y="4.9634464113300965" />
+    </edge>
+    <edge source="com.pdc.Project.Enclos" target="com.pdc.Project.Paludarium">
+      <point x="-11.035780320166054" y="0.0" />
+      <point x="-11.035780320166168" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Oiseau" target="com.pdc.Project.Photo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.Arachnide">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.formulaireZoo" target="com.pdc.Project.InterfaceGestion">
+      <point x="0.0" y="10.031238798763866" />
+      <point x="0.0" y="10.031238798763866" />
+    </edge>
+    <edge source="com.pdc.Project.afficher_enclos" target="com.pdc.Project.Insecte">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Mollusque" target="com.pdc.Project.Invertebre">
+      <point x="5.3121270212908485" y="0.0" />
+      <point x="5.312127021291019" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.PlanZoo" target="com.pdc.Project.Insectarium">
+      <point x="5.335547755228845" y="0.0" />
+      <point x="5.3355477552289585" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Poisson" target="com.pdc.Project.Photo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Cage" target="com.pdc.Project.PlanZoo">
+      <point x="-3.5679454097576127" y="3.502822512344892" />
+      <point x="-3.567945409757499" y="3.502822512344892" />
+    </edge>
+    <edge source="com.pdc.Project.formulaireZoo" target="com.pdc.Project.Porte">
+      <point x="0.07000961062939837" y="4.999509841416398" />
+      <point x="0.07000961062936994" y="4.999509841416398" />
+    </edge>
+    <edge source="com.pdc.Project.Enclos" target="com.pdc.Project.Voliere">
+      <point x="-11.535863269154277" y="0.0" />
+      <point x="-11.53586326915422" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.formulaireZoo" target="com.pdc.Project.Enclos">
+      <point x="-5.301001422545312" y="0.0" />
+      <point x="-5.301001422545312" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Voliere" target="com.pdc.Project.PlanZoo">
+      <point x="2.870210140730478" y="4.094129180674145" />
+      <point x="2.870210140730478" y="4.094129180674145" />
+    </edge>
+    <edge source="com.pdc.Project.Insectarium" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.CouleurList" target="com.pdc.Project.PlanZoo">
+      <point x="4.902903378454653" y="-0.9805806756909305" />
+      <point x="4.902903378454653" y="-0.9805806756909305" />
+    </edge>
+    <edge source="com.pdc.Project.afficher_enclos" target="com.pdc.Project.Amphibien">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Paludarium" target="com.pdc.Project.PlanZoo">
+      <point x="3.8606209842960197" y="3.177358276243581" />
+      <point x="3.8606209842960197" y="3.177358276243581" />
+    </edge>
+    <edge source="com.pdc.Project.Animal" target="com.pdc.Project.Espece">
+      <point x="6.220621275261237" y="0.0" />
+      <point x="6.220621275261237" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Espece" target="com.pdc.Project.Photo">
+      <point x="4.558365440763282" y="2.0545813462733804" />
+      <point x="4.558365440763339" y="2.0545813462733804" />
+    </edge>
+    <edge source="com.pdc.Project.Supprimer_enclos" target="com.pdc.Project.formulaireZoo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.formulaireResto" target="com.pdc.Project.Restaurant">
+      <point x="-6.201739582660821" y="0.0" />
+      <point x="-6.201739582660593" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Zoo" target="com.pdc.Project.Porte">
+      <point x="-4.970734159500012" y="-0.5401869265170944" />
+      <point x="-4.970734159500012" y="-0.5401869265170944" />
+    </edge>
+    <edge source="com.pdc.Project.Placement" target="com.pdc.Project.formulaireResto">
+      <point x="1.6717335960795516" y="4.712250713166554" />
+      <point x="1.671733596079548" y="4.712250713166554" />
+    </edge>
+    <edge source="com.pdc.Project.Menu_Principal" target="com.pdc.Project.Animal">
+      <point x="0.0" y="5.439342102403899" />
+      <point x="2.2737367544323206E-13" y="5.439342102403998" />
+    </edge>
+    <edge source="com.pdc.Project.Invertebre" target="com.pdc.Project.Photo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Voliere" target="com.pdc.Project.Animal">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.formulaireResto" target="com.pdc.Project.Zoo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Supprimer_enclos" target="com.pdc.Project.Zoo">
+      <point x="4.989705010382181" y="-0.32069285830377225" />
+      <point x="4.989705010382181" y="-0.3206928583038007" />
+    </edge>
+    <edge source="com.pdc.Project.Menu_Principal" target="com.pdc.Project.placer_animal">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.PlanZoo" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Cage" target="com.pdc.Project.Animal">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.PlanZoo" target="com.pdc.Project.afficher_enclos">
+      <point x="-5.000814488783362" y="0.0" />
+      <point x="-5.000814488783362" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.Insecte">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.PlanZoo" target="com.pdc.Project.Voliere">
+      <point x="-8.710163637578376" y="0.0" />
+      <point x="-8.710163637578376" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Oiseau" target="com.pdc.Project.Vertebre">
+      <point x="-6.0875799127741175" y="0.0" />
+      <point x="-6.0875799127741175" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Mollusque" target="com.pdc.Project.Photo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Menu_Principal" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Zoo" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="10.106897052360864" />
+      <point x="0.0" y="10.106897052360807" />
+    </edge>
+    <edge source="com.pdc.Project.formulaireZoo" target="com.pdc.Project.Placement">
+      <point x="0.0" y="-11.124051405210025" />
+      <point x="5.597273013774849" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.CouleurList" target="com.pdc.Project.Espece">
+      <point x="2.989162749844695" y="-4.008105045397542" />
+      <point x="2.9891627498445814" y="-4.008105045397542" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.placer_animal">
+      <point x="5.001317216661789" y="0.0" />
+      <point x="5.001317216661775" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Zoo" target="com.pdc.Project.Restaurant">
+      <point x="0.0" y="12.034351892213976" />
+      <point x="-17.974612118262257" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Paludarium" target="com.pdc.Project.Animal">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.placer_animal" target="com.pdc.Project.Zoo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Cage" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.CouleurList" target="com.pdc.Project.formulaireZoo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Reptile" target="com.pdc.Project.Photo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.Amphibien">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.Espece">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Insectarium" target="com.pdc.Project.PlanZoo">
+      <point x="-4.685554538519568" y="1.745158636502424" />
+      <point x="-4.685554538519568" y="1.745158636502481" />
+    </edge>
+    <edge source="com.pdc.Project.FormAnimal" target="com.pdc.Project.Animal">
+      <point x="0.0" y="5.003626802544147" />
+      <point x="0.0" y="5.003626802544147" />
+    </edge>
+    <edge source="com.pdc.Project.Menu_Principal" target="com.pdc.Project.formulaireZoo">
+      <point x="6.889852132312171" y="0.0" />
+      <point x="0.0" y="-7.267378276548527" />
+    </edge>
+    <edge source="com.pdc.Project.Voliere" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.formulaireEnclos" target="com.pdc.Project.formulaireEnclos.Combo">
+      <point x="0.0" y="10.631769383507617" />
+      <point x="29.44815040074127" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Insecte" target="com.pdc.Project.Invertebre">
+      <point x="5.161769231307375" y="0.0" />
+      <point x="5.161769231307403" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.PlanZoo" target="com.pdc.Project.Cage">
+      <point x="7.006833661644805" y="0.0" />
+      <point x="7.006833661644805" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.Menu_Principal" target="com.pdc.Project.Espece">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.pdc.Project.CouleurList" target="com.pdc.Project.Enclos">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7" x="2293.4285714285716" y="41.14285714285717" />
+  <SelectedNodes>
+    <node>com.pdc.Project.PlanZoo</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

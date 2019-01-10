@@ -1,5 +1,8 @@
 package com.pdc.Project;
 
+import com.pdc.Project.Strategy.DataValidator;
+import com.pdc.Project.Strategy.NumericDataValidator;
+
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;
@@ -11,6 +14,7 @@ import java.util.TreeSet;
 
 public class formulaireZoo extends JFrame implements ActionListener{
 
+	private DataValidator dataValidator;
 	private ArrayList<Porte> portes = new ArrayList<Porte>();
 	private JPanel contentPane;
 	private JTextField entrerNom;
@@ -32,7 +36,9 @@ public class formulaireZoo extends JFrame implements ActionListener{
 
 
 
-	public formulaireZoo() {
+	public formulaireZoo(DataValidator dataValidator) {
+		this.dataValidator = dataValidator;
+
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		setBounds(100, 100, 616, 567);
 		setVisible(true);
@@ -136,11 +142,13 @@ public class formulaireZoo extends JFrame implements ActionListener{
 	public void actionPerformed(ActionEvent e) {
 
 		if (e.getSource() == PlacerPortes){
-			if(entrernbmax.getText() == "") JOptionPane.showMessageDialog(null,"Entrer le nombre de cases !");
+			if(dataValidator.validate(entrernbmax.getText())){
+				placer = new Placement(Integer.parseInt(entrernbmax.getText()));
+				placer.setVisible(true);
+				creerZoo.setEnabled(true);
+			}
 			else{
-			placer = new Placement(Integer.parseInt(entrernbmax.getText()));
-			placer.setVisible(true);
-			creerZoo.setEnabled(true);
+				JOptionPane.showMessageDialog(null,"Nombre de cases incorecte!");
 			}
 		}
 

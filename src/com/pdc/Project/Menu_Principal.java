@@ -8,6 +8,7 @@ import com.pdc.Project.Enum.TypeSol;
 import com.pdc.Project.FactoryMethod.AbstractEnclosCreator;
 import com.pdc.Project.FactoryMethod.EnclosCreator;
 import com.pdc.Project.FactoryMethod.EnclosType;
+import com.pdc.Project.Strategy.NumericDataValidator;
 
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
@@ -95,7 +96,7 @@ public class Menu_Principal extends JFrame {
         JButton nouveauZoo = new JButton(" Nouveau Zoo ");
         nouveauZoo.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent arg0) {
-                JFrame form = new formulaireZoo();
+                JFrame form = new formulaireZoo(new NumericDataValidator());
             }
         });
         nouveauZoo.setBackground(Color.GRAY);
